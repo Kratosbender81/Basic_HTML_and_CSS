@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+	<body>
+	<p> &lt; </p>
+	<style>
+		
+
+	</style>
+		<link rel = "stylesheet" type = "text/css" href = "Basic_CSS_2.css">
+		<p>styled font.</P>
+		<h1>CSS text-shadow</h1>
+		</body>
+</html>
